@@ -21,7 +21,7 @@ Project of a web page presenting a landing page for promoting a music/karaoke ap
 
 ```bash
 # Clone this repository
-git clone https://github.com/sillasemanoel/study-product-lp
+git clone https://github.com/sillasemanoel/study-product-lp.git
 
 # Enter the project folder
 cd study-product-lp
